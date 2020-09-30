@@ -5,10 +5,6 @@
 view 
 view details
 
- class="Mx_auto" style="width 500 px;"> 
-<iframe src= "" allowtransparency'"true"
-width="242" height="201" frameborder="0" scrolling="no" allowfullscreen>
-<iram
 
 
 HBLJH???
@@ -19,16 +15,7 @@ HBLJH???
 <body>
 
 
-
-div class="Mx-auto" style="width 500 px;"> 
-      <iframe src= "https://scratch.mit.edu/projects/430861276/" allowtransparency'"true"
-           width="242" height="201" frameborder="0" scrolling="no" allowfullscreen>
-      </iframe>
-      
- </body>
-</html>
-
-
+<iframe src="https://scratch.mit.edu/projects/430861276/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 
 <html>
@@ -187,15 +174,5 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
   <p>bla 9 <a href="hURL" target="_blank">w3.css</a></p>
 </footer>
 
-</body>
-</html>
 
-<html>
-<body>
-<div class="Mx_auto" style="width 500 px;"> 
-      <iframe src= "https://scratch.mit.edu/projects/430861276/" allowtransparency'"true"
-           width="242" height="201" frameborder="0" scrolling="no" allowfullscreen>
-      </iframe>
-      
- </body>
 </html>
