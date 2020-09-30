@@ -5,7 +5,7 @@
 view 
 view details
 
-<div class="Mx_auto" style="width 500 px;"> 
+ class="Mx_auto" style="width 500 px;"> 
 <iframe src= "" allowtransparency'"true"
 width="242" height="201" frameborder="0" scrolling="no" allowfullscreen>
 <iram
@@ -14,6 +14,23 @@ width="242" height="201" frameborder="0" scrolling="no" allowfullscreen>
 HBLJH???
 
 <!DOCTYPE html>
+
+<html>
+<body>
+
+
+
+div class="Mx-auto" style="width 500 px;"> 
+      <iframe src= "https://scratch.mit.edu/projects/430861276/" allowtransparency'"true"
+           width="242" height="201" frameborder="0" scrolling="no" allowfullscreen>
+      </iframe>
+      
+ </body>
+</html>
+
+
+
+
 <html>
 <title>W3.CSS Template</title>
 <meta charset="UTF-8">
@@ -171,4 +188,14 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 </footer>
 
 </body>
+</html>
+
+<html>
+<body>
+<div class="Mx_auto" style="width 500 px;"> 
+      <iframe src= "https://scratch.mit.edu/projects/430861276/" allowtransparency'"true"
+           width="242" height="201" frameborder="0" scrolling="no" allowfullscreen>
+      </iframe>
+      
+ </body>
 </html>
