@@ -15,7 +15,7 @@ HBLJH???
 <body>
 
 
-<iframe src="https://scratch.mit.edu/projects/430861276/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
 
 
 <html>
@@ -117,6 +117,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-container">
           <h5 class="w3-opacity"><b> Scratch  </b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2015 - <span class="w3-tag w3-teal w3-round">Current</span></h6>
+          <iframe src="https://scratch.mit.edu/projects/430861276/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
           <p>\ bla.</p>
           <hr>
         </div>
