@@ -115,13 +115,13 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         </div>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Web Developer / something.com</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i></h6>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Mar 2012 - Dec 2014</h6>
           <p> Ruben here </p>
           <hr>
         </div>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Graphic Designer / designsomething.com</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i></h6>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jun 2010 - Mar 2012</h6>
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p><br>
         </div>
       </div>
@@ -130,13 +130,13 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>bla 6</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i>Forever</h6>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Forever</h6>
           <p>bla 2 ace</p>
           <hr>
         </div>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>bla 7</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i>text</h6>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2013 - 2015</h6>
           <p>Bla3</p>
           <hr>
         </div>
