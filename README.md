@@ -27,7 +27,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 
 <div class="mx_auto" 
 
-          <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
+          <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>text</b></p>
           <p>bla22</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
            </div>
@@ -72,14 +72,14 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         </div>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Web Developer / something.com</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Traverse Remix</h6>
+          <h6 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i>Traverse Remix</h6>
           <iframe src="https://scratch.mit.edu/projects/429991550/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
           <p> Ruben here </p>
           <hr>
         </div>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Graphic Designer / designsomething.com</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Costume game</h6>
+          <h6 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i>Costume game</h6>
           <iframe src="https://scratch.mit.edu/projects/429789049/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
           <p>bl20. </p><br>
         </div>
@@ -89,13 +89,13 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>textkb</h2>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>bla 6</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Forever</h6>
+          <h6 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i>Forever</h6>
           <p>bla 2 ace</p>
           <hr>
         </div>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>bla 7</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2013 - 2015</h6>
+          <h6 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i>2013 - 2015</h6>
           <p>Bla3</p>
           <hr>
         </div>
