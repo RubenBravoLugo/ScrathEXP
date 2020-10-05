@@ -1,13 +1,4 @@
 ﻿# ScrathEXP
-#khcgkhg
-<h1> lfjc
-
-view 
-view details
-
-
-
-HBLJH???
 
 <!DOCTYPE html>
 
@@ -123,17 +114,3 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
   
   <!-- End Page Container -->
 </div>
-
-<footer class="w3-container w3-teal w3-center w3-margin-top">
-  <p>bla 5.</p>
-  <i class="fa fa-facebook-official w3-hover-opacity"></i>
-  <i class="fa fa-instagram w3-hover-opacity"></i>
-  <i class="fa fa-snapchat w3-hover-opacity"></i>
-  <i class="fa fa-pinterest-p w3-hover-opacity"></i>
-  <i class="fa fa-twitter w3-hover-opacity"></i>
-  <i class="fa fa-linkedin w3-hover-opacity"></i>
-  <p>bla 9 <a href="hURL" target="_blank">w3.css</a></p>
-</footer>
-
-
-</html>
