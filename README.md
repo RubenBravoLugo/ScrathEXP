@@ -82,37 +82,9 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <h6 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i>Costume game</h6>
           <iframe src="https://scratch.mit.edu/projects/429789049/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
           <p>Pong game:-first to 5 points wins, player 1 uses up and down arrow keys, player 2 uses keys "Q" and "A", ball will get faster and map will zoom out as time goes on.
-                Link to Scratch: 
+              
           </p><br>
         </div>
       </div>
 
-      <div class="w3-container w3-card w3-white">
-        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>textkb</h2>
-        <div class="w3-container">
-          <h5 class="w3-opacity"><b>bla 6</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i>Forever</h6>
-          <p>bla 2 ace</p>
-          <hr>
-        </div>
-        <div class="w3-container">
-          <h5 class="w3-opacity"><b>bla 7</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i>2013 - 2015</h6>
-          <p>Bla3</p>
-          <hr>
-        </div>
-        <div class="w3-container">
-          <h5 class="w3-opacity"><b>class of Coding</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2010 - 2013</h6>
-          <p>bla 4 D</p><br>
-        </div>
-      </div>
-
-    <!-- End Right Column -->
-    </div>
-    
-  <!-- End Grid -->
-  </div>
-  
-  <!-- End Page Container -->
 </div>
