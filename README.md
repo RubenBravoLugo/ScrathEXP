@@ -78,7 +78,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <hr>
         </div>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>yop <a href="https://scratch.mit.edu/projects/429991550/editor/">yo</a>tg.</b></h5>
+          <h5 class="w3-opacity"><b>For link to Costume game click <a href="https://scratch.mit.edu/projects/429789049/editor/">here</a>tg.</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i>Costume game</h6>
           <iframe src="https://scratch.mit.edu/projects/429789049/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
           <p>Pong game:-first to 5 points wins, player 1 uses up and down arrow keys, player 2 uses keys "Q" and "A", ball will get faster and map will zoom out as time goes on.
