@@ -27,27 +27,6 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 
 <div class="mx_auto" 
 
-          <p class="w3-large"><b><i  w3-text-teal"></i>text</b></p>
-          <p>bla22</p>
-          <div class="w3-light-grey w3-round-xlarge w3-small">
-           </div>
-          </div>
-          <p>bla23</p>
-          <div class="w3-light-grey w3-round-xlarge w3-small">
-            </div>
-             
-            </div>
-          </div>
-          <p>bla24</p>
-          <div class="w3-light-grey w3-round-xlarge w3-small">
-            <
-          </div>
-          <p>Medbla25a</p>
-          <div class="w3-light-grey w3-round-xlarge w3-small">
-            </div>
-          </div>
-          <br>
-
          
             <div class="w3-round-xlarge w3-teal" style="height:24px;width:25%"></div>
           </div>
@@ -88,3 +67,4 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
       </div>
 
 </div>
+ruben bravo liugo
