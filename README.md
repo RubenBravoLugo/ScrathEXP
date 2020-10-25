@@ -5,9 +5,19 @@
 <body>
 
 
+
+<html>
+<head>
+<style>
+body {
 background-image: url(https://www.page-borders.com/wp-content/uploads/2016/09/teal-chevron-background.jpg);
   background-color: lightblue;
 }
+</style>
+</head>
+<body>
+
+
 
 
 <html>
