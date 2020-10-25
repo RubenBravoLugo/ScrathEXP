@@ -10,7 +10,7 @@
 <head>
 <style>
 body {
-background-image: url(https://www.page-borders.com/wp-content/uploads/2016/09/teal-chevron-background.jpg);
+background-image: url(https://tse3.mm.bing.net/th?id=OIP.YtSC2C4uqm-I4BTH5mR6ogHaFF&pid=Api&P=0&w=229&h=158);
   background-color: lightblue;
 }
 </style>
