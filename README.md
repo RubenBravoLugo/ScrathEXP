@@ -19,6 +19,55 @@
 
   <body>
 
+  <body>
+  <head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {margin:1;}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 980px;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: blue;
+  text-align: center;
+  padding: 40px 20px;
+  text-decoration: none;
+  font-size: 25px;
+}
+
+.navbar a:hover {
+  background: #ddd;
+  color: black;
+}
+
+.main {
+  padding: 16px;
+  margin-top: 30px;
+  height: 1500px; /* Used in this example to enable scrolling */
+}
+</style>
+</head>
+<body>
+
+<div class="navbar">
+  <a href="https://rubenbravolugo.github.io/"> HOME </a>
+  <a href="#news"> </a>
+  <a href="#contact"> </a>
+</div>
+
+
+
+</body>
+</html>
+
 
 
 
@@ -72,24 +121,8 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <h5 class="w3-opacity"><b> For link to Friction Ball click <a href="https://scratch.mit.edu/projects/430861276/">HERE</a>  . </b></h5>
           <h6 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i> - <span class="w3-tag w3-teal w3-round">Friction ball</span></h6>
           <iframe src="https://scratch.mit.edu/projects/430861276/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-          <p>\ bla.</p>
-          <hr>
-        </div>
-        <div class="w3-container">
-          <h5 class="w3-opacity"><b>For link to Traverse Remix click <a href="https://scratch.mit.edu/projects/429991550/editor/">HERE</a>  .</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i>Traverse Remix</h6>
-          <iframe src="https://scratch.mit.edu/projects/429991550/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-          <p> Ruben here </p>
-          <hr>
-        </div>
-        <div class="w3-container">
-          <h5 class="w3-opacity"><b>For link to Costume game click <a href="https://scratch.mit.edu/projects/429789049/editor/">HERE</a>  .</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i>Costume game</h6>
-          <iframe src="https://scratch.mit.edu/projects/429789049/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-          <p>Pong game:-first to 5 points wins, player 1 uses up and down arrow keys, player 2 uses keys "Q" and "A", ball will get faster and map will zoom out as time goes on.
-              
-          <br>
-        </div>
-      </div>
+          
+     
+      
 
 </div>
